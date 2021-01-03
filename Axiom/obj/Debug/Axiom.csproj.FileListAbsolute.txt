@@ -1,0 +1,110 @@
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\bin\Debug\Axiom.exe.config
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\bin\Debug\Axiom.exe
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\bin\Debug\Axiom.pdb
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\DebugConsole.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\FilePropertiesWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\LogConsole.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeAxiom.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeCircuit.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeCyberpunk.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeFFmpeg.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeOnyx.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Themes\ThemeSystem.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\CropWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\DebugConsole.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\FailedImportWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\FilePropertiesWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\InfoWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\LogConsole.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\MainWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\UpdateWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\App.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom_MarkupCompile.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom_MarkupCompile.lref
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\App.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\CropWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\FailedImportWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\InfoWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\MainWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\UpdateWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.g.resources
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.Properties.Resources.resources
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.csproj.GenerateResource.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.csproj.CoreCompileInputs.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.exe
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Axiom-master123\Axiom-master\source\Axiom\Axiom\obj\Debug\Axiom.pdb
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\bin\Debug\Axiom.exe.config
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\bin\Debug\Axiom.exe
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\bin\Debug\Axiom.pdb
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\DebugConsole.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\FilePropertiesWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\LogConsole.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeAxiom.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeCircuit.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeCyberpunk.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeFFmpeg.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeOnyx.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Themes\ThemeSystem.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\CropWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\DebugConsole.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\FailedImportWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\FilePropertiesWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\InfoWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\LogConsole.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\MainWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\UpdateWindow.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\App.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom_MarkupCompile.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom_MarkupCompile.lref
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\App.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\CropWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\FailedImportWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\InfoWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\MainWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\UpdateWindow.baml
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.g.resources
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.Properties.Resources.resources
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.csproj.GenerateResource.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.csproj.CoreCompileInputs.cache
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.exe
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.pdb
+D:\Загрузки\Раздавалка\Учеба\Университет\4 курс\1 семестр\Мультимедийные, игровые и развлекательные системы\Лаб 1\Lab1.1\Axiom\obj\Debug\Axiom.csprojAssemblyReference.cache
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.exe.config
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.exe
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.pdb
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.csprojAssemblyReference.cache
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\DebugConsole.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\FilePropertiesWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\LogConsole.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeAxiom.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeCircuit.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeCyberpunk.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeFFmpeg.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeOnyx.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Themes\ThemeSystem.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\CropWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\DebugConsole.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\FailedImportWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\FilePropertiesWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\InfoWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\LogConsole.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\MainWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\UpdateWindow.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\App.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom_MarkupCompile.cache
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom_MarkupCompile.lref
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\App.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\CropWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\FailedImportWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\InfoWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\MainWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\UpdateWindow.baml
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.g.resources
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.Properties.Resources.resources
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.csproj.GenerateResource.cache
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.csproj.CoreCompileInputs.cache
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.exe
+D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.pdb
