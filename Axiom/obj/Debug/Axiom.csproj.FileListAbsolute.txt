@@ -74,7 +74,6 @@ D:\Загрузки\Раздавалка\Учеба\Университет\4 к�
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.exe.config
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.exe
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\bin\Debug\Axiom.pdb
-D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\Axiom.csprojAssemblyReference.cache
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\DebugConsole.baml
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\FilePropertiesWindow.baml
 D:\Programing\Лабы\Мультимедия\Lab1-Multimedia\Axiom\obj\Debug\LogConsole.baml

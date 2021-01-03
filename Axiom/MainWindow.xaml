@@ -207,7 +207,6 @@
         <!-- Script View -->
         <TextBox x:Name="tbxScriptView"
                  Text="{Binding MainView.ScriptView_Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
-                 Style="{DynamicResource TextBoxScriptView}"
                  FontSize="14"
                  RenderOptions.ClearTypeHint="Enabled"
                  VerticalScrollBarVisibility="Auto"
